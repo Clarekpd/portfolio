@@ -28,6 +28,10 @@ p {
 .topnav {
   background-color: black;
   overflow: hidden;
+  position: flex;
+  top: 0;
+  width: 100%;
+  
 }
 
 /* Style the links inside the navigation bar */
